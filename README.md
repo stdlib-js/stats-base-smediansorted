@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import smediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smediansorted@deno/mod.js';
+import smediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smediansorted@v0.1.0-deno/mod.js';
 ```
 
 #### smediansorted( N, x, stride )
@@ -157,7 +157,7 @@ var v = smediansorted.ndarray( N, x, 2, 1 );
 
 ```javascript
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import smediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smediansorted@deno/mod.js';
+import smediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smediansorted@v0.1.0-deno/mod.js';
 
 var x;
 var i;
