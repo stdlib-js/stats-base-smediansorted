@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-smediansorted",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Calculate the median value of a sorted single-precision floating-point strided array.",
   "license": "Apache-2.0",
   "author": {
@@ -41,8 +41,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-floor": "^0.1.0",
-    "@stdlib/number-float64-base-to-float32": "^0.1.0",
+    "@stdlib/math-base-special-floor": "^0.1.1",
+    "@stdlib/number-float64-base-to-float32": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1",
     "@stdlib/utils-library-manifest": "^0.1.1"
   },
