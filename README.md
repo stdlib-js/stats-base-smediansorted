@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import smediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smediansorted@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-smediansorted/tags). For example,
+
+```javascript
 import smediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smediansorted@v0.1.1-esm/index.mjs';
 ```
 
@@ -162,7 +167,7 @@ var v = smediansorted.ndarray( N, x, 2, 1 );
 <script type="module">
 
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
-import smediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smediansorted@v0.1.1-esm/index.mjs';
+import smediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smediansorted@esm/index.mjs';
 
 var x;
 var i;
