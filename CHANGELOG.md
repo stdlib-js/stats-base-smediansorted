@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-08)
+## Unreleased (2025-02-19)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`e2a0e14`](https://github.com/stdlib-js/stdlib/commit/e2a0e14b16741fb85a6a0a48b9588a2617d9b8c6) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`7e63aad`](https://github.com/stdlib-js/stdlib/commit/7e63aad8c0b42330b0933973bddea8d1c5e84862) - **fix:** wrap function calls in `API_SUFFIX` in native addons [(#4646)](https://github.com/stdlib-js/stdlib/pull/4646) _(by Aayush Khanna)_
 -   [`63e4274`](https://github.com/stdlib-js/stdlib/commit/63e4274589df08bbcbb65b9c0d4a5d2e3f9ff594) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smediansorted` [(#4490)](https://github.com/stdlib-js/stdlib/pull/4490) _(by Aayush Khanna, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
